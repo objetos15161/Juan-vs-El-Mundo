@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Juan()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\ Act\ -\ hace\ lo\ que\ Juan\ quiere\ hacer.\ Este\ m\u00E9todo\ se\ llama\ "cuando\ quiera"\ o\ whenever\r\n\ los\ botones\ 'Actuar\ or\ 'Ejecutar'\ son\ presionados\ en\ el\ etorno.\r\n
+comment2.params=
+comment2.target=void\ mover()
+numComments=3

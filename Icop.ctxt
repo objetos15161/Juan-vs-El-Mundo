@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=w
+comment1.target=void\ cambiaMundo(greenfoot.World)
+numComments=2

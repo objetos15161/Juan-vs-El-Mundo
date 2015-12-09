@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FondoPuntaje()
+comment0.text=\r\n\ Construye\ las\ caracteristicas\ Iniciales\ del\ Mundo\r\n\ \r\n\ @param\ music\ musica\ de\ la\ clase\ GreenfootSound\r\n
+comment1.params=
+comment1.target=void\ actualizaRecord()
+numComments=2
